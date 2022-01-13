@@ -1,7 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
-  background-image: url(assets/background.jpg);
+  background-image: url("https://res.cloudinary.com/exom/image/upload/c_scale,q_100,w_1983/v1642046974/background_ajgsv3.jpg");
 }
 
 img {
